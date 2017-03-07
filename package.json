@@ -1,0 +1,17 @@
+{
+  "name": "boottest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "node-telegram-bot-api": "^0.25.0",
+    "utf8": "^2.1.2"
+  }
+}
